@@ -1,4 +1,4 @@
-<img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/andpartners_logo.png" width="50%">
+<img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/andpartners_logo.png" width="50%">           <img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/VA_SDVOSB_Shield.png"> <img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/VIP_Shield.png">
 
 ## We build ethical technology products that disrupt the status quo through Human-Centered Design and research.
 
@@ -32,27 +32,33 @@ We also partner with industry to seamlessly integrate design into product develo
 
 ### Prime Past Performance
 **CHAN-ZUCKERBERG INITIATIVE**
+
 *Improving the Pathway to Citizenship with the Immigration Action Network*
 Audited, researched, designed, and developed a large second iteration of a tool enabling lawful permanent residents to apply to become naturalized citizens with legal support throughout the process.
 
 **REBUILD PR**
+
 *Facilitating Local Procurement Responses in Puerto Rico*
 Designed and developed a secure system for Puerto Rican small businesses to respond to government Requests for Information (RFIs). Reduced average response time by over three weeks.
 
 **VERA INSTITUTE OF JUSTICE | NEW AMERICA**
+
 *Connecting Advocates with Families at the Border*
 Researched, designed, developed, trained, and maintained a customer relationship management (CRM) system used by the Vera Network of lawyers to reunify families at the Southwest border.
 
 **CALIFORNIA HEALTH SERVICES**
+
 *Bringing Human-Centered Design to the State*
 Provided digital services education and training courses on procurement, product delivery, agile methodology, Human-Centered Design, workshop facilitation, and bureaucracy busting.
 
 ### Sub Past Performance
 **CIVICACTIONS | UNITED STATES CITIZENSHIP AND IMMIGRATION SERVICES (USCIS)**
+
 *Training for Digital IT Acquisitions (DITAP)*
 Partnered with a leading services provider to iterate on the DITAP training module, improve curriculum delivery, and facilitate the 100% graduation of 30 students as the first cohort.
 
 **HEALTH AND HUMAN SERVICES | INDIAN HEALTH SERVICE**
+
 *Modernizing Health IT in Government*
 Performed a complete assessment of the electronic health records system enabling leadership to make decisions to modernize the system through a series of working sessions, workshops, and trainings.
 
