@@ -69,7 +69,7 @@ Performed a complete assessment of the electronic health records system enabling
   * Co-founder & member, Digital Services Coalition (DSC)
   * Veterans in Procurement (VIP) Graduate
   * National Veteran Small Business Coalition member
-  * Former Yahoo! Engineering Manage
+  * Former Yahoo! Engineering Manager
   * Former Intel Community member
   * Former White House Creative Director 
   * Former Consumer Financial Protection Bureau (CFPB)
