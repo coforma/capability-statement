@@ -1,4 +1,4 @@
-<img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/andpartners_logo.png" width="50%">           <img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/VA_SDVOSB_Shield.png"> <img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/VIP_Shield.png">
+<img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/andpartners_logo.png">           <img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/VA_SDVOSB_Shield.png"> <img src="https://github.com/prtnrs/prtnrs.github.io/blob/master/assets/images/VIP_Shield.png">
 
 ## We build ethical technology products that disrupt the status quo through Human-Centered Design and research.
 
